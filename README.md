@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorenzo Pacitto, made in 1997, I come from Bojano, Molise, Italy
-- ☁️ AWS Solutions Architect
+- ☁️ 2x AWS Certified | Solutions Architect Associate| Developer Associate
 - 👀 I’m interested in high technology, software development, web development, automation, robotics and AI. 
 - 🎓 I have a bachelor's degree in Computer Science, with a thesis on AI (using Hugging Face's transformers <br> to predict crosswords' answers)
 - 🌱 I use Java, C, C++, Javascript, HTML, CSS, Python, PyTorch
